@@ -1,6 +1,6 @@
 ---
 name: Remotion Compose
-description: Turns a natural-language video brief into a complete Remotion composition (.tsx) — scene plan plus animated React/TypeScript components using useCurrentFrame, interpolate, spring, AbsoluteFill, and Sequence. Use to create, generate, or animate any product demo, walkthrough, feature-callout, or marketing video with Remotion.
+description: Turns a natural-language video brief into a complete, ready-to-preview Remotion composition — extracts duration, scenes, brand colors, aspect ratio, and real copy; plans the frame budget; and writes data-driven React/TypeScript using useCurrentFrame, interpolate, spring, AbsoluteFill, and Sequence, registered in Root.tsx. Use when someone says "build a 20-second product demo video", "animate a feature walkthrough", "write the Remotion code for this marketing clip", or wants a scene-by-scene composition they can scrub in Studio. Do NOT use for rendering, iterating, or batching the finished MP4 — use remotion-render instead — or for installing and scaffolding the project — use remotion-setup instead.
 ---
 # Remotion Compose
 
